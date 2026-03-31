@@ -44,4 +44,4 @@ I am a Research Scientist and Ph.D. candidate at Trinity College Dublin, special
 * **Young Talents Program:** Recognized for academic excellence during undergraduate studies.
 * **Erasmus+ Scholarship:** International research experience in semiconductor technology.
 
----
+--- This is my primary account 
